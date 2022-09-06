@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @R1vas 
-- 👀 I’m interested in web dev & de/fi blockchain technology
-- 🌱 I’m currently learning python3,html,css & javascript
-- 📫 How to reach me 
+-  🦝Hi, I’m @R1vas 
+-  🍕 I’m interested in web dev/frontend,blockchain technology
+-  🦊I’m currently learning ,html,css & javascript
+-  🤖 How to reach me 
 
 sokivworld@gmail.com
 
