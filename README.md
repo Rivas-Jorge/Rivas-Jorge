@@ -2,8 +2,8 @@
 -  🍕 I’m interested in web dev/frontend,blockchain technology
 -  🦊I’m currently learning ,html,css & javascript
 -  🤖 How to reach me 
-
-sokivworld@gmail.com
+-    twitter.com/J0rgeR1vas
+-     sokivworld@gmail.com
 
 <!---
 R1vas/R1vas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
