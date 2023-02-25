@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jorge Rivas
 ===================================================================================================================================
 
-I've been learning to code for about a year now, and I started with HTML. Since then, I've been focusing on JavaScript, It's allowed me to create interactive websites, and it's been challenging but rewarding.
+My name is Jorge and I am a father and husband. I have been learning to code for about a year now, and I started with HTML. Since then, I've been focusing on JavaScript, It's allowed me to create interactive websites, and it's been challenging but rewarding.
 
 *   🌍  I'm based in Oklahoma
 *   ✉️  You can contact me at [sokivworld@gmail.com](mailto:sokivworld@gmail.com)
