@@ -1,5 +1,5 @@
 <div align='center'>
- <image src="https://media.giphy.com/media/DdHspapm5FbWhQPwtG/giphy.gif" width="240" height="130" >
+ <image src="https://res.cloudinary.com/cloudinary-marketing/images/c_fill,w_750/f_auto,q_auto/v1649720751/Web_Assets/blog/Mario_1/Mario_1-gif?_i=AA" width="240" height="130" >
 </div>
 
 
