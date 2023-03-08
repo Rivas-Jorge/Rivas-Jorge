@@ -2,8 +2,11 @@
  <image src="https://res.cloudinary.com/cloudinary-marketing/images/c_fill,w_750/f_auto,q_auto/v1649720751/Web_Assets/blog/Mario_1/Mario_1-gif?_i=AA" width="480" height="200" >
 </div>
 
- <image src"https://art.pixilart.com/61a81bffce09ea4.gif" width="280" height="300">
 
+ 
+ <div align='center'>
+ <image src="https://art.pixilart.com/61a81bffce09ea4.gif" width="480" height="200" >
+</div>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jorge Rivas
 ===================================================================================================================================
