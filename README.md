@@ -1,4 +1,4 @@
-Hi ![](https://em-content.zobj.net/source/microsoft-teams/337/eyes_1f440.png )My name is Jorge Rivas
+
 ===================================================================================================================================
 
 My name is Jorge and I am a father and husband. I have been learning to code for about a year now, and I started with HTML. Since then, I've been focusing on JavaScript, It's allowed me to create interactive websites, and it's been challenging but rewarding.
