@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jorge Rivas
+Hi ![](https://em-content.zobj.net/source/microsoft-teams/337/see-no-evil-monkey_1f648.png)My name is Jorge Rivas
 ===================================================================================================================================
 
 My name is Jorge and I am a father and husband. I have been learning to code for about a year now, and I started with HTML. Since then, I've been focusing on JavaScript, It's allowed me to create interactive websites, and it's been challenging but rewarding.
