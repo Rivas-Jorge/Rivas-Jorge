@@ -1,5 +1,5 @@
 
-===================================================================================================================================
+
 
 My name is Jorge and I am a father and husband. I have been learning to code for about a year now, and I started with HTML. Since then, I've been focusing on JavaScript, It's allowed me to create interactive websites, and it's been challenging but rewarding.
 
