@@ -5,7 +5,7 @@ My name is Jorge R. and I am a father and husband. I have been learning to code 
 
 *   🌍  I'm based in Oklahoma
 *   ✉️  You can contact me at [sokivworld@gmail.com](mailto:sokivworld@gmail.com)
-*   🚀  I'm currently working on [my personal library](http://book.zionsquad.repl.co)
+*   🚀  I'm currently working on [small library](http://book.zionsquad.repl.co)
 *   🧠  I'm learning Javascript
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
