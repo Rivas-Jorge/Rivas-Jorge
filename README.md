@@ -1,7 +1,7 @@
 
 
 
-My name is Jorge R. and I am a father and husband. I have been learning to code for about a year now, and I started with HTML. Since then, I've been focusing on JavaScript, It's allowed me to create interactive websites, and it's been challenging but rewarding.
+My name is Jorge R. and I am a father and husband. I have been learning to code for about 2 years now, and I started with HTML. Since then, I've been focusing on JavaScript, and  data analytics, It's allowed me to create interactive websites, and it's been challenging but rewarding.
 
 *   🌍  I'm based in Oklahoma
 *   ✉️  You can contact me at [sokivworld@gmail.com](mailto:sokivworld@gmail.com)
